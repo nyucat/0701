@@ -1,7 +1,0 @@
-﻿  井字棋.cpp
-D:\Users\HP\Desktop\VS\井字棋书写练习\井字棋.cpp(1,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
-D:\Users\HP\Desktop\VS\井字棋书写练习\井字棋.cpp(2,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
-D:\Users\HP\Desktop\VS\井字棋书写练习\井字棋.cpp(3,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
-D:\Users\HP\Desktop\VS\井字棋书写练习\井字棋.cpp(4,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
-D:\Users\HP\Desktop\VS\井字棋书写练习\井字棋.cpp(99): warning C4715: “o_win”: 不是所有的控件路径都返回值
-  井字棋书写练习.vcxproj -> D:\Users\HP\Desktop\VS\井字棋书写练习\x64\Debug\井字棋书写练习.exe
