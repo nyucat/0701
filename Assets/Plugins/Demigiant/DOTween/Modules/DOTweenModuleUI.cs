@@ -5,7 +5,6 @@
 
 using System;
 using System.Globalization;
-using UnityEngine;
 using UnityEngine.UI;
 using DG.Tweening.Core;
 using DG.Tweening.Core.Enums;
