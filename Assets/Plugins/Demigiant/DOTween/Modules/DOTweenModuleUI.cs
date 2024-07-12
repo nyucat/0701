@@ -5,7 +5,8 @@
 
 using System;
 using System.Globalization;
-using UnityEngine.UI;
+
+using UnityEngine;
 using DG.Tweening.Core;
 using DG.Tweening.Core.Enums;
 using DG.Tweening.Plugins;
